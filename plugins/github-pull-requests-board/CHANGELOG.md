@@ -1,5 +1,20 @@
 # @backstage/plugin-github-pull-requests-board
 
+## 0.2.0-next.2
+
+### Minor Changes
+
+- c6cafe6: Fixed bug in CardHeader not expecting commit status as an array as returned by GraphQL
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/catalog-model@1.4.5
+  - @backstage/core-components@0.14.4-next.0
+  - @backstage/core-plugin-api@1.9.1
+  - @backstage/integration@1.10.0-next.0
+  - @backstage/plugin-catalog-react@1.11.3-next.1
+
 ## 0.1.28-next.1
 
 ### Patch Changes

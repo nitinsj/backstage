@@ -1,5 +1,17 @@
 # @backstage/plugin-techdocs-react
 
+## 1.2.3-next.1
+
+### Patch Changes
+
+- b450af3: Added ESLint rule `no-top-level-material-ui-4-imports` in the Techdocs-react plugin to migrate the Material UI imports.
+- Updated dependencies
+  - @backstage/catalog-model@1.4.5
+  - @backstage/config@1.2.0
+  - @backstage/core-components@0.14.4-next.0
+  - @backstage/core-plugin-api@1.9.1
+  - @backstage/version-bridge@1.0.7
+
 ## 1.2.3-next.0
 
 ### Patch Changes

@@ -1,5 +1,21 @@
 # @backstage/frontend-app-api
 
+## 0.6.4-next.2
+
+### Patch Changes
+
+- 83f24f6: add `@backstage/no-top-level-material-ui-4-imports` lint rule
+- Updated dependencies
+  - @backstage/frontend-plugin-api@0.6.4-next.1
+  - @backstage/config@1.2.0
+  - @backstage/core-app-api@1.12.4-next.0
+  - @backstage/core-components@0.14.4-next.0
+  - @backstage/core-plugin-api@1.9.1
+  - @backstage/errors@1.2.4
+  - @backstage/theme@0.5.2
+  - @backstage/types@1.1.1
+  - @backstage/version-bridge@1.0.7
+
 ## 0.6.4-next.1
 
 ### Patch Changes
