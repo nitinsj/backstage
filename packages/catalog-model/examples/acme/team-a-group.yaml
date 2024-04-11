@@ -26,12 +26,23 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
+  name: nijadhav
+spec:
+  profile:
+    displayName: NITIN JADHAV
+    email: Nitin.Jadhav1@kyndryl.com
+    picture: https://api.dicebear.com/7.x/avataaars/svg?seed=Luna&backgroundColor=transparent
+  memberOf: [team-a]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
   name: janelle.dawe
 spec:
   profile:
     displayName: Janelle Dawe
     email: janelle-dawe@example.com
-    picture: https://api.dicebear.com/7.x/avataaars/svg?seed=Leo&backgroundColor=transparent
+    picture: https://avatars.github.kyndryl.net/u/58206
   memberOf: [team-a]
 ---
 apiVersion: backstage.io/v1alpha1
